@@ -1,4 +1,6 @@
-# Beyond Feature Attribution
+---
+title: Beyond Feature Attribution
+---
 
 ## A Hands-On Tutorial on Concept-Based Explainable AI and Mechanistic Interpretability  
 KDD 2025 | Toronto, Canada | August 3–7, 2025  
