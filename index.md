@@ -96,7 +96,7 @@ Click below to launch:
 
 - [🔗 C-XAI: Concept Bottleneck Model (CBM)](https://colab.research.google.com/...)
 - [🔗 C-XAI: TCAV Implementation](https://colab.research.google.com/...)
-- [🔗 Mechanistic: Discover-Then-Name](https://colab.research.google.com/...)
+- [🔗 Mechanistic: Discover-Then-Name](notebooks/03_discover_then_name.ipynb)
 - [🔗 Mechanistic: SAEuron](https://colab.research.google.com/...)
 
 Each notebook includes:
