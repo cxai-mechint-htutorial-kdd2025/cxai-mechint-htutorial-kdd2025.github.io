@@ -1,8 +1,8 @@
 ---
-title: Beyond Feature Attribution
+title: Beyond Input Attribution
 ---
 
-## A Hands-On Tutorial on Concept-Based Explainable AI and Mechanistic Interpretability  
+## A Hands-On Tutorial to Concept-Based Explainable AI and Mechanistic Interpretability  
 KDD 2025 | Toronto, Canada | August 3–7, 2025  
 
 **Eliana Pastor**, Politecnico di Torino  
