@@ -95,7 +95,7 @@ All notebooks will run on **Google Colab** – no local setup required.
 Click below to launch:
 
 - [🔗 C-XAI: Testing with Concept Activation Vectors (TCAV)](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/01_tcav.ipynb)
-- [🔗 C-XAI: Concept Bottleneck Model (CBM)](https://colab.research.google.com/...)
+- [🔗 C-XAI: Concept Bottleneck Model (CBM)](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/02a_cbm.ipynb)
 - [🔗 Mechanistic: Discover-Then-Name](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/03_discover_then_name.ipynb)
 - [🔗 Mechanistic: SAEuron](https://colab.research.google.com/...)
 
