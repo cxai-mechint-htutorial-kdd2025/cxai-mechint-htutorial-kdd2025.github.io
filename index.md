@@ -151,7 +151,6 @@ Each notebook includes:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
     <img src="https://centai.eu/assets/images/people/perotti.webp" alt="Alan Perotti" width="80" style="border-radius: 50%; margin-right: 15px;" />
-  </a>
 
   <div>
     <strong>Alan Perotti</strong><br>
@@ -163,7 +162,6 @@ Each notebook includes:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
     <img src="https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2023/10/GabrieleCiravegna-3.jpg" alt="Gabriele Ciravegna" width="80" style="border-radius: 50%; margin-right: 15px;" />
-  </a>
 
   <div>
     <strong>Gabriele Ciravegna</strong><br>
