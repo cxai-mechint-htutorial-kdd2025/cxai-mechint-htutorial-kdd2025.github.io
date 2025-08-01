@@ -107,54 +107,73 @@ Each notebook includes:
 ---
 # Organizers
 
-<table>
-  <tr>
-    <td>
-    <a href="https://elianap.github.io/">
-    <img src="https://smartdata.polito.it/wp-content/uploads/2018/01/pastor_photo-274x300.png" alt="Eliana Pastor" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <strong>Eliana Pastor</strong><br>
-      Assistant Professor, XPolitecnico di Torino  <br>
-      <em>Research:</em> Trustworthy AI, Explainability, Fairness 
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://www.polito.it/personale?p=052068">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_5JjylSEbXBdNg9L45j0R6_1KUoqKcgBZQ&s" alt="Eleonora Poeta" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <strong>Eleonora Poeta</strong><br>
-      PhD Student, Politecnico di Torino    <br>
-      <em>Research:</em> Concept-based explainability, robustness
-    </td>
-  </tr>
-    <tr>
-    <td>
-    <a href="https://andre.panisson.com/">
-    <img src="https://centai.eu/assets/images/people/panisson.webp" alt="André Panisson" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <strong>André Panisson</strong><br>
-      Principal Researcher, CENTAI      <br>
-      Lead of Responsible AI Team
-    </td>
-  </tr>
-      <tr>
-    <td><img src="https://centai.eu/assets/images/people/perotti.webp" alt="Alan Perotti" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <strong>Alan Perotti</strong><br>
-      Senior Researcher, CENTAI      <br>
-      <em>Focus:</em> XAI applications in finance (Intesa Sanpaolo)
-    </td>
-  </tr>
-        <tr>
-    <td><img src="https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2023/10/GabrieleCiravegna-3.jpg" alt="Gabriele Ciravegna" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <strong>Gabriele Ciravegna</strong><br>
-        Researcher, CENTAI      <br>
-      <em>Focus:</em> Mechanistic interpretability, reliability
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+
+  <a href="https://elianap.github.io/">
+    <img src="https://smartdata.polito.it/wp-content/uploads/2018/01/pastor_photo-274x300.png" alt="Eliana Pastor" width="80" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <div>
+    <strong>Eliana Pastor</strong><br>
+    Assistant Professor, Politecnico di Torino<br>
+    <em>Research:</em> Trustworthy AI, Explainability, Fairness 
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+
+  <a href="https://www.polito.it/personale?p=052068">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_5JjylSEbXBdNg9L45j0R6_1KUoqKcgBZQ&s" alt="Eleonora Poeta" width="80" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <div>
+    <strong>Eleonora Poeta</strong><br>
+    PhD Student, Politecnico di Torino<br>
+    <em>Research:</em> Concept-based explainability, robustness
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+
+  <a href="https://andre.panisson.com/">
+    <img src="https://centai.eu/assets/images/people/panisson.webp" alt="André Panisson" width="80" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <div>
+    <strong>André Panisson</strong><br>
+    Principal Researcher, CENTAI  <br>
+    <em>Lead of Responsible AI Team</em> 
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+    <img src="https://centai.eu/assets/images/people/perotti.webp" alt="Alan Perotti" width="80" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <div>
+    <strong>Alan Perotti</strong><br>
+    Senior Researcher, CENTAI  <br>
+    <em>Focus:</em> XAI applications in finance (Intesa Sanpaolo)
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+    <img src="https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2023/10/GabrieleCiravegna-3.jpg" alt="Gabriele Ciravegna" width="80" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+
+  <div>
+    <strong>Gabriele Ciravegna</strong><br>
+    Researcher, CENTAI  <br>
+    <em>Focus:</em> Mechanistic interpretability, reliability
+  </div>
+
+</div>
+
+
 
 
 ## 📚 References
