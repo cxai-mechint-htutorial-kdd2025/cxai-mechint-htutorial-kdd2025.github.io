@@ -11,20 +11,21 @@ KDD 2025 | Toronto, Canada | August 3–7, 2025
 **Alan Perotti**, CENTAI Institute  
 **Gabriele Ciravegna**, CENTAI Institute
 
-This tutorial goes beyond traditional feature attribution by exploring two cutting-edge paradigms in explainable AI: **Concept-Based XAI (C-XAI)** and **Mechanistic Interpretability**. Through interactive coding sessions and hands-on exercises, participants will build a modern interpretability toolbox, combining human-aligned conceptual reasoning and deep introspection into model internals.
 
-As deep learning systems increasingly permeate critical domains, the need for **trustworthy, transparent, and human-aligned AI** has never been more urgent. While traditional feature attribution methods like SHAP or LIME have dominated the explainable AI (XAI) landscape, they often fall short in robustness, fidelity, and alignment with how humans reason about decisions. This hands-on tutorial addresses these limitations by introducing two complementary and cutting-edge paradigms: **Concept-Based Explainable AI (C-XAI)** and **Mechanistic Interpretability**.
+As deep learning systems become embedded in high-stakes domains, the demand for **transparent, trustworthy, and human-aligned AI** is more critical than ever. While traditional feature attribution methods like SHAP and LIME have long dominated the Explainable AI (XAI) landscape, they often fall short in robustness, fidelity, and alignment with how humans reason about decisions.
+This hands-on tutorial introduces two powerful and complementary approaches that go beyond traditional feature attribution: **Concept-Based Explainable AI (C-XAI)** and **Mechanistic Interpretability**.
 
 **C-XAI** offers explanations grounded in **high-level, domain-relevant concepts**, enabling users to interpret, manipulate, and reason about model behavior in ways that mirror human cognition. **Mechanistic interpretability**, on the other hand, is an emerging field that seeks to **reverse-engineer the internal structure of neural networks**, uncovering the circuits and representations that drive model decisions—often without relying on predefined concepts or labeled data.
 
-Through a mix of **interactive coding sessions and guided exercises**, participants will explore and implement both paradigms—from training concept bottleneck models to using sparse autoencoders for structure discovery. By the end of the session, attendees will walk away with a **modern interpretability toolbox** and the practical knowledge needed to apply these methods to real-world models, improving transparency, trust, and safety in AI systems.
+
+Through a mix of **interactive coding sessions and guided exercises**, participants will explore and implement both paradigms. By the end of the session, attendees will walk away with a **modern interpretability toolbox** and the practical skills to apply it, making AI systems more transparent, reliable, and aligned with human values.
+
 
 ### Goals
 
-- Understand the limitations of standard feature attribution techniques.
-- Learn how to apply concept bottleneck models and CLIP-based concept extraction.
+- Discover how networks can learn human-interpretable concepts
 - Discover how mechanistic interpretability can unveil internal model structures.
-- Get hands-on with techniques like TCAV, Discover-Then-Name, and SAEuron.
+- Get hands-on with techniques like CBM, TCAV, Label Free CBM, Discover-Then-Name, and SAEuron.
 
 
 ---
@@ -68,8 +69,6 @@ Overview of XAI and limitations of feature attribution techniques like SHAP or L
 
 ### 🔍 Post-hoc Methods
 - TCAV (Testing with Concept Activation Vectors)
-- Concept projection in latent space
-
 ---
 
 ## 🔬 3. Mechanistic Interpretability
@@ -106,28 +105,56 @@ Each notebook includes:
 - Evaluation and visualization cells
 
 ---
-
 # Organizers
 
-### Eliana Pastor  
-Assistant Professor, Politecnico di Torino  
-Research: Trustworthy AI, Explainability, Fairness
-
-### Eleonora Poeta  
-PhD Student, Politecnico di Torino  
-Research: Concept-based explainability, robustness
-
-### André Panisson  
-Principal Researcher, CENTAI  
-Lead of Responsible AI Team
-
-### Alan Perotti  
-Senior Researcher, CENTAI  
-XAI applications in finance (Intesa Sanpaolo)
-
-### Gabriele Ciravegna  
-Researcher, CENTAI  
-Focus: Mechanistic interpretability, reliability
+<table>
+  <tr>
+    <td>
+    <a href="https://elianap.github.io/">
+    <img src="https://smartdata.polito.it/wp-content/uploads/2018/01/pastor_photo-274x300.png" alt="Eliana Pastor" width="80" style="border-radius: 50%;"></td>
+    <td>
+      <strong>Eliana Pastor</strong><br>
+      Assistant Professor, XPolitecnico di Torino  <br>
+      <em>Research:</em> Trustworthy AI, Explainability, Fairness 
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://www.polito.it/personale?p=052068">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_5JjylSEbXBdNg9L45j0R6_1KUoqKcgBZQ&s" alt="Eleonora Poeta" width="80" style="border-radius: 50%;"></td>
+    <td>
+      <strong>Eleonora Poeta</strong><br>
+      PhD Student, Politecnico di Torino    <br>
+      <em>Research:</em> Concept-based explainability, robustness
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://andre.panisson.com/">
+    <img src="https://centai.eu/assets/images/people/panisson.webp" alt="André Panisson" width="80" style="border-radius: 50%;"></td>
+    <td>
+      <strong>André Panisson</strong><br>
+      Principal Researcher, CENTAI      <br>
+      Lead of Responsible AI Team
+    </td>
+  </tr>
+      <tr>
+    <td><img src="https://centai.eu/assets/images/people/perotti.webp" alt="Alan Perotti" width="80" style="border-radius: 50%;"></td>
+    <td>
+      <strong>Alan Perotti</strong><br>
+      Senior Researcher, CENTAI      <br>
+      <em>Focus:</em> XAI applications in finance (Intesa Sanpaolo)
+    </td>
+  </tr>
+        <tr>
+    <td><img src="https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2023/10/GabrieleCiravegna-3.jpg" alt="Gabriele Ciravegna" width="80" style="border-radius: 50%;"></td>
+    <td>
+      <strong>Gabriele Ciravegna</strong><br>
+        Researcher, CENTAI      <br>
+      <em>Focus:</em> Mechanistic interpretability, reliability
+    </td>
+  </tr>
+</table>
 
 
 ## 📚 References
