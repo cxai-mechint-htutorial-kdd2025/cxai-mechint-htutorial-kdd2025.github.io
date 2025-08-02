@@ -109,7 +109,7 @@ Each notebook includes:
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
 
   <a href="https://elianap.github.io/">
-    <img src="https://smartdata.polito.it/wp-content/uploads/2018/01/pastor_photo-274x300.png" alt="Eliana Pastor" width="80" style="border-radius: 50%; margin-right: 15px;" />
+    <img src="https://elianap.github.io/authors/admin/avatar_hu024c4a9bf4904b77abcfb00b4c347862_2261009_270x270_fill_lanczos_center_3.png" alt="Eliana Pastor" width="80" style="border-radius: 50%; margin-right: 15px;" />
   </a>
 
   <div>
