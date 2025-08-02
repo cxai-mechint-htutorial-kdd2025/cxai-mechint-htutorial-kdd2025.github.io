@@ -69,7 +69,6 @@ Overview of XAI and limitations of feature attribution techniques like SHAP or L
 
 ### 🔍 Post-hoc Methods
 - TCAV (Testing with Concept Activation Vectors)
----
 
 ## 🔬 3. Mechanistic Interpretability
 
