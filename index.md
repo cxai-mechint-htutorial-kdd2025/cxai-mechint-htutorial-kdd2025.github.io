@@ -96,7 +96,7 @@ Click below to launch:
 - [🔗 C-XAI: Concept Bottleneck Model (CBM)](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/02a_cbm.ipynb)
 - [🔗 C-XAI: Label Free Concept Bottleneck Model (LF-CBM)](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/02b_label_free_cbm.ipynb)
 - [🔗 Mechanistic: Discover-Then-Name](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/03_discover_then_name.ipynb)
-- [🔗 Mechanistic: SAEuron](https://colab.research.google.com/...)
+- [🔗 Mechanistic: SAEuron](https://github.com/cxai-mechint-htutorial-kdd2025/cxai-mechint-htutorial-kdd2025.github.io/blob/main/notebooks/04_saeuron.ipynb)
 
 Each notebook includes:
 - Step-by-step explanations
